@@ -1,0 +1,295 @@
+{
+ "states": {
+  "AK": {
+   "file": "AK.geojson",
+   "count": 123,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "AL": {
+   "file": "AL.geojson",
+   "count": 629,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "AR": {
+   "file": "AR.geojson",
+   "count": 525,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "AZ": {
+   "file": "AZ.geojson",
+   "count": 644,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "CA": {
+   "file": "CA.geojson",
+   "count": 3197,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "CO": {
+   "file": "CO.geojson",
+   "count": 984,
+   "hls": 813,
+   "updated": "2026-10-02"
+  },
+  "CT": {
+   "file": "CT.geojson",
+   "count": 347,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "DE": {
+   "file": "DE.geojson",
+   "count": 358,
+   "hls": 358,
+   "updated": "2026-10-02"
+  },
+  "FL": {
+   "file": "FL.geojson",
+   "count": 4904,
+   "hls": 4325,
+   "updated": "2026-10-02"
+  },
+  "GA": {
+   "file": "GA.geojson",
+   "count": 4043,
+   "hls": 4043,
+   "updated": "2026-10-02"
+  },
+  "HI": {
+   "file": "HI.geojson",
+   "count": 361,
+   "hls": 328,
+   "updated": "2026-10-02"
+  },
+  "IA": {
+   "file": "IA.geojson",
+   "count": 844,
+   "hls": 685,
+   "updated": "2026-10-02"
+  },
+  "ID": {
+   "file": "ID.geojson",
+   "count": 457,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "IN": {
+   "file": "IN.geojson",
+   "count": 740,
+   "hls": 740,
+   "updated": "2026-10-02"
+  },
+  "KS": {
+   "file": "KS.geojson",
+   "count": 591,
+   "hls": 196,
+   "updated": "2026-10-02"
+  },
+  "KY": {
+   "file": "KY.geojson",
+   "count": 241,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "LA": {
+   "file": "LA.geojson",
+   "count": 336,
+   "hls": 336,
+   "updated": "2026-10-02"
+  },
+  "MA": {
+   "file": "MA.geojson",
+   "count": 304,
+   "hls": 281,
+   "updated": "2026-10-02"
+  },
+  "MD": {
+   "file": "MD.geojson",
+   "count": 553,
+   "hls": 553,
+   "updated": "2026-10-02"
+  },
+  "ME": {
+   "file": "ME.geojson",
+   "count": 151,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "MI": {
+   "file": "MI.geojson",
+   "count": 783,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "MN": {
+   "file": "MN.geojson",
+   "count": 1520,
+   "hls": 1249,
+   "updated": "2026-10-02"
+  },
+  "MO": {
+   "file": "MO.geojson",
+   "count": 737,
+   "hls": 737,
+   "updated": "2026-10-02"
+  },
+  "MS": {
+   "file": "MS.geojson",
+   "count": 349,
+   "hls": 349,
+   "updated": "2026-10-02"
+  },
+  "MT": {
+   "file": "MT.geojson",
+   "count": 117,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "NC": {
+   "file": "NC.geojson",
+   "count": 1114,
+   "hls": 1046,
+   "updated": "2026-10-02"
+  },
+  "ND": {
+   "file": "ND.geojson",
+   "count": 186,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "NE": {
+   "file": "NE.geojson",
+   "count": 353,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "NH": {
+   "file": "NH.geojson",
+   "count": 181,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "NM": {
+   "file": "NM.geojson",
+   "count": 183,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "NV": {
+   "file": "NV.geojson",
+   "count": 648,
+   "hls": 634,
+   "updated": "2026-10-02"
+  },
+  "NY": {
+   "file": "NY.geojson",
+   "count": 1864,
+   "hls": 1553,
+   "updated": "2026-10-02"
+  },
+  "OH": {
+   "file": "OH.geojson",
+   "count": 1121,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "OK": {
+   "file": "OK.geojson",
+   "count": 193,
+   "hls": 164,
+   "updated": "2026-10-02"
+  },
+  "OR": {
+   "file": "OR.geojson",
+   "count": 1127,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "PA": {
+   "file": "PA.geojson",
+   "count": 1384,
+   "hls": 1304,
+   "updated": "2026-10-02"
+  },
+  "RI": {
+   "file": "RI.geojson",
+   "count": 135,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "SC": {
+   "file": "SC.geojson",
+   "count": 763,
+   "hls": 763,
+   "updated": "2026-10-02"
+  },
+  "SD": {
+   "file": "SD.geojson",
+   "count": 170,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "TN": {
+   "file": "TN.geojson",
+   "count": 667,
+   "hls": 667,
+   "updated": "2026-10-02"
+  },
+  "TX": {
+   "file": "TX.geojson",
+   "count": 3426,
+   "hls": 3426,
+   "updated": "2026-10-02"
+  },
+  "UT": {
+   "file": "UT.geojson",
+   "count": 2063,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "VA": {
+   "file": "VA.geojson",
+   "count": 1684,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "VT": {
+   "file": "VT.geojson",
+   "count": 89,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "WA": {
+   "file": "WA.geojson",
+   "count": 1383,
+   "hls": 0,
+   "updated": "2026-10-02"
+  },
+  "WI": {
+   "file": "WI.geojson",
+   "count": 448,
+   "hls": 448,
+   "updated": "2026-10-02"
+  },
+  "WV": {
+   "file": "WV.geojson",
+   "count": 127,
+   "hls": 127,
+   "updated": "2026-10-02"
+  },
+  "WY": {
+   "file": "WY.geojson",
+   "count": 228,
+   "hls": 0,
+   "updated": "2026-10-02"
+  }
+ },
+ "total": 43375,
+ "source": "Ora (warner-wvez, PolyForm Noncommercial 1.0.0) + US state DOTs",
+ "attribution": "Camera data: Ora by Warner Varnado; feeds by respective state DOTs"
+}
